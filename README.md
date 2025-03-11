@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**kfuquay/kfuquay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack senior software developer passionate about web standards, accessibility, and continuous learning.
 
-Here are some ideas to get you started:
+- 😄 Pronouns: he/him
+- 🤝 Looking to collaborate on open-source projects
+- 👯 Learning Sean-nós dancing
+- 🏃 Slow and steady runner
+- 💙 Ipswich Town supporter
+- 📚 Avid reader
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to connect! 🚀
+
+📫 I'm on [LinkedIn](https://www.linkedin.com/in/kurt-fuquay/)
