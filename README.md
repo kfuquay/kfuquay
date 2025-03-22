@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a full-stack senior software developer passionate about web standards, accessibility, and continuous learning.
+I'm a full-stack software developer passionate about web standards, accessibility, and continuous learning.
 
 - 😄 Pronouns: he/him
 - 🤝 Looking to collaborate on open-source projects
